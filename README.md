@@ -1,5 +1,13 @@
-Hello, this is the description of my game
+# Welcome to StackEdit!
 
-To play the game go on this link: https://enes-ironhack.github.io/project-1/
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left
 
-# This is a Title
+![enter image description here](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+
+| Test  | Hello  |
+| ----- | ------ |
+| name1 | Hello1 |
+
+- Install the project
+- Play
+- Have fun
