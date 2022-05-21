@@ -11,3 +11,12 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 - Install the project
 - Play
 - Have fun
+
+ciphpih^doajd
+
+> This is an awsome quote
+
+    const arr = [1, 2]
+
+- [x] List item
+- [ ] item 2
